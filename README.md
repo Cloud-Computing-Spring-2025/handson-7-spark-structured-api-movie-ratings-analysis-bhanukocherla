@@ -290,3 +290,32 @@ Your assignment will be evaluated based on the following criteria:
 ---
 
 Good luck, and happy analyzing!
+
+
+
+
+
+
+
+TASK 1: 
+AgeGroup,Binge Watchers,Total Users,Percentage
+Senior,17,37,45.95
+Teen,10,21,47.62
+Adult,24,42,57.14
+
+
+
+TASK 2 :
+Churn Risk Users,Total Users
+Users with low watch time & canceled subscriptions,14
+
+
+TASK 3: 
+WatchedYear,Movies Watched
+2018,16
+2019,22
+2020,13
+2021,14
+2022,22
+2023,13
+

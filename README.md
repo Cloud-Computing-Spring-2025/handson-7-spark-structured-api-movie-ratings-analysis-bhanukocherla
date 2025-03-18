@@ -203,12 +203,13 @@ Determine which movies have an average watch time greater than 100 minutes and r
 
 A list of departments meeting the specified criteria, along with the corresponding percentages.
 
-**Example Output:**
+** Output:**
 
-| Age Group   | Binge Watchers | Percentage |
-|-------------|----------------|------------|
-| Teen        | 195            | 45%        |
-| Adult       | 145            | 38%        |
+| Age Group   | Binge Watchers| Total users |   Percentage|
+|-------------|---------------|------------ | ------------|
+| Senior      | 17            |      37     | 45.95%      |
+| Teen        | 10            |      47     | 47.62%      |
+|  Adult      | 24            |    42       | 57.14%      |
 
 ---
 
@@ -228,12 +229,12 @@ Find users who are **at risk of churn** by identifying those with **canceled sub
 
 A count of users who **canceled their subscriptions and had low engagement**, highlighting **potential churn risks**.
 
-**Example Output:**  
+** Output:**  
 
 
 |Churn Risk Users                                  |	Total Users |
 |--------------------------------------------------|--------------|
-|Users with low watch time & canceled subscriptions|	350         |
+|Users with low watch time & canceled subscriptions|	14          |
 
 
 
@@ -255,14 +256,16 @@ Analyze how **movie-watching trends** have changed over the years and find peak 
 
 A summary of **movie-watching trends** over the years, indicating peak years for streaming activity.
 
-**Example Output:**  
+** Output:**  
 
 | Watched Year | Movies watched |
 |--------------|----------------|
-| 2020         | 1200           |
-| 2021         | 1500           |
-| 2022         | 2100           |
-| 2023         | 2800           |
+| 2018         |  16            |
+| 2019         | 22             |
+| 2020         | 13             |
+| 2021         | 14             |
+| 2022         | 22             |
+| 2023         | 13             |
 
 
 ---
@@ -296,26 +299,4 @@ Good luck, and happy analyzing!
 
 
 
-
-TASK 1: 
-AgeGroup,Binge Watchers,Total Users,Percentage
-Senior,17,37,45.95
-Teen,10,21,47.62
-Adult,24,42,57.14
-
-
-
-TASK 2 :
-Churn Risk Users,Total Users
-Users with low watch time & canceled subscriptions,14
-
-
-TASK 3: 
-WatchedYear,Movies Watched
-2018,16
-2019,22
-2020,13
-2021,14
-2022,22
-2023,13
 

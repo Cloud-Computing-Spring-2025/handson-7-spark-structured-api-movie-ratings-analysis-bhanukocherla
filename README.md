@@ -211,6 +211,13 @@ A list of departments meeting the specified criteria, along with the correspondi
 | Teen        | 10            |      47     | 47.62%      |
 |  Adult      | 24            |    42       | 57.14%      |
 
+**Findings:** 
+1) Teens (10%) binge-watch the most, followed by Adults (24%), and Seniors (17%).
+
+2) Adults and Teens are the most engaged streaming users, while seniors show relatively lower binge-watching behavior.
+
+3) Streaming platforms can target Teen and Adult demographics with more binge-worthy content.
+
 ---
 
 ### **2. Identify Churn Risk Users**  
@@ -235,6 +242,13 @@ A count of users who **canceled their subscriptions and had low engagement**, hi
 |Churn Risk Users                                  |	Total Users |
 |--------------------------------------------------|--------------|
 |Users with low watch time & canceled subscriptions|	14          |
+
+**Findings:**
+1) 14 users were identified as at-risk of churn, having canceled subscriptions and watched less than 100 minutes.
+
+2) Churned users had low engagement before canceling, indicating content dissatisfaction or pricing issues.
+
+3) Streaming services should focus on retaining users by offering personalized recommendations and promotions.
 
 
 
@@ -266,6 +280,15 @@ A summary of **movie-watching trends** over the years, indicating peak years for
 | 2021         | 14             |
 | 2022         | 22             |
 | 2023         | 13             |
+
+**Findings**
+1) Movie consumption has increased significantly, with 2019 and 2022 being the peak year.
+
+2) 2022 and 2018 saw the highest engagement, suggesting that post-pandemic streaming adoption has grown.
+
+3) Streaming platforms should release major content during peak engagement years to maximize viewership.
+
+
 
 
 ---
